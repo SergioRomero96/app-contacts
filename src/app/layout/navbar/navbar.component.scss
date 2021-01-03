@@ -1,0 +1,30 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.mat-toolbar {
+  height: 64px;
+  position: fixed;
+  z-index: 2;
+}
+
+.nav-brand {
+  text-align: center;
+}
+
+.visible-md {
+  display: none;
+}
+
+@media screen and (max-width: 960px) {
+  .visible-md {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav-brand {
+    width: 100%;
+  }
+}
+

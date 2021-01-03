@@ -1,0 +1,15 @@
+.sidenav {
+  height: calc(100vh - 64px);
+  margin-top: 64px;
+}
+
+.mat-drawer-side {
+  border-right: none;
+}
+
+.layout-content {
+  background-color: #f6f7ff;
+  height: calc(100vh - 64px);
+  margin-top: 64px;
+  //padding: 16px 0px;
+}
