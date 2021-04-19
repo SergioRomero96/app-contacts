@@ -1,5 +1,7 @@
 # AppContacts
 
+Demo: https://contacts-app-95f2c.firebaseapp.com/#/app/home
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.11.
 
 ## Development server
